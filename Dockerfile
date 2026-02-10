@@ -1,4 +1,4 @@
-FROM ubuntu:24.04
+FROM ubuntu:noble-20260113
 # The above versions should be automatically updated by dependabot
 FROM phihos/sssd-krb5-ldap:latest
 
